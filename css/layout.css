@@ -23,5 +23,8 @@
 }
 
 /* Posititoning Classes */
-
+.FeaturedBrands{
+  float:left;
+  width: 50%;
+}
 
